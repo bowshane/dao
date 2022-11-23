@@ -1,0 +1,12 @@
+	public
+	static ArrayList<Class<? extends DataRecord>> fRegisteredClasses = new ArrayList<Class<? extends DataRecord>>();
+
+	static public <R extends DataRecord> void register(Class<R> aClass) {
+		fRegisteredClasses.add(aClass);
+		}
+
+	static private <R extends DataRecord> int idTable(Class<R> aClass) {
+		for (int i=0; i < fRegisteredClasses.size(); i++)
+			if (fRegisteredClasses.get(i) == aClass) return i+1;
+		return 0;
+		}

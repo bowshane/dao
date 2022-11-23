@@ -1,0 +1,238 @@
+#,Name,Nationality,Calling Code,Mail Lead Time,GMT Offset
+1,Afghanistan,,93,5,-1
+2,Aland Islands,,358,5,-1
+3,Albania,,355,5,-1
+4,Algeria,,213,5,-1
+5,American Samoa,,1,5,-1
+6,Andorra,,376,5,-1
+7,Angola,,244,5,-1
+8,Anguilla,,1,5,-1
+9,Antarctica,,672,5,-1
+10,Antigua And Barbuda,,1,5,-1
+11,Argentina,,54,5,-1
+12,Armenia,,374,5,-1
+13,Aruba,,297,5,-1
+14,Australia,,61,5,-1
+15,Austria,,43,5,-1
+16,Azerbaijan,,994,5,-1
+17,Bahamas,,1,5,-1
+18,Bahrain,Bahrainian,973,5,-1
+19,Bangladesh,Bangladeshee,880,5,-1
+20,Barbados,Barbadean,1,5,-1
+21,Belarus,Belarusian,375,5,-1
+22,Belgium,,32,5,-1
+23,Belize,,501,5,-1
+24,Benin,,229,5,-1
+25,Bermuda,,1,5,-1
+26,Bhutan,,975,5,-1
+27,Bolivia,,591,5,-1
+28,Bosnia And Herzegovina,,387,5,-1
+29,Botswana,Botswanian,267,5,-1
+30,Bouvet Island,,-1,5,-1
+31,Brazil,,55,5,-1
+32,Brunei Darussalam,,673,5,-1
+33,Bulgaria,,-1,5,-1
+34,Burkina Faso,,226,5,-1
+35,Burundi,,257,5,-1
+36,Cambodia,,855,5,-1
+37,Cameroon,Camerese,237,5,-1
+38,Canada,Canadian,1,5,-1
+39,Canary Islands,,34,5,-1
+40,Cape Verde,,238,5,-1
+41,Cayman Islands,,1,5,-1
+42,Central African Republic,,236,5,-1
+43,Chad,,235,5,-1
+44,Channel Islands,,1,5,-1
+45,Chile,Chilean,56,5,-1
+46,China,Chinese,86,5,-1
+47,Christmas Island,,61,5,-1
+48,Cocos (Keeling) Island,,61,5,-1
+49,Colombia,,57,5,-1
+50,Comoros,,269,5,-1
+51,Congo,Congolese,242,5,-1
+52,Congo- Democratic Republic Of,,243,5,-1
+53,Cook Islands,,682,5,-1
+54,Costa Rica,,506,5,-1
+55,Cote D'Ivoire,,225,5,-1
+56,Croatia,,385,5,-1
+57,Cyprus,Cyprian,357,5,-1
+58,Czech Republic,Czech,420,5,-1
+59,Denmark,Dane,45,5,-1
+60,Djibouti,,253,5,-1
+61,Dominica,,1,5,-1
+62,Dominican Republic,,1,5,-1
+63,East Timor,,670,5,-1
+64,Ecuador,,593,5,-1
+65,Egypt,Egyptian,20,5,-1
+66,El Salvador,,503,5,-1
+67,Equatorial Guinea,,240,5,-1
+68,Eritrea,,291,5,-1
+69,Estonia,,372,5,-1
+70,Ethiopia,,251,5,-1
+71,Falkland Islands,,500,5,-1
+72,Faroe Islands,,298,5,-1
+73,Fiji,Fijan,679,5,-1
+74,Finland,Fin,358,5,-1
+75,France,French,33,5,-1
+76,French Guiana,,594,5,-1
+77,French Polynesia,,689,5,-1
+78,French Southern Territories,,262,5,-1
+79,Gabon,,241,5,-1
+80,Gambia,,220,5,-1
+81,Georgia,,995,5,-1
+82,Germany,German,49,5,-1
+83,Ghana,,233,5,-1
+84,Gibraltar,,350,5,-1
+85,Greece,Greek,30,5,-1
+86,Greenland,,299,5,-1
+87,Grenada,,1,5,-1
+88,Guadeloupe,Guadeloupean,590,5,-1
+89,Guam,,1,5,-1
+90,Guatemala,,502,5,-1
+91,Guernsey,,44,5,-1
+92,Guinea,,224,5,-1
+93,Guinea- Bissau,,245,5,-1
+94,Guyana,,592,5,-1
+95,Haiti,,509,5,-1
+96,Heard Island And McDonald Islands,,-1,5,-1
+97,Holy See- Vatican City State,Catholic,39,5,-1
+98,Honduras,,504,5,-1
+99,Hong Kong,,852,5,-1
+100,Hungary,Hungarian,36,5,-1
+101,Iceland,,354,5,-1
+102,India,,91,5,-1
+103,Indonesia,,62,5,-1
+104,Ireland,Irish,353,5,-1
+105,Israel,,972,5,-1
+106,Italy,Italian,39,5,-1
+107,Jamaica,,1,5,-1
+108,Japan,,81,5,-1
+109,Jersey,,44,5,-1
+110,Jordan,Jordanian,962,5,-1
+111,Kazakhstan,Kazakh,7,5,-1
+112,Kenya,,254,5,-1
+113,Kiribati,,686,5,-1
+114,Korea- South,South Korean,82,5,-1
+115,Kuwait,Kuwaitee,965,5,-1
+116,Kyrgyzstan,,996,5,-1
+117,Laos,Laoian,856,5,-1
+118,Latvia,,371,5,-1
+119,Lebanon,Lebanese,961,5,-1
+120,Lesotho,,266,5,-1
+121,Liberia,,231,5,-1
+122,Libya,,218,5,-1
+123,Liechtenstein,,423,5,-1
+124,Lithuania,,370,5,-1
+125,Luxembourg,,352,5,-1
+126,Macao,,853,5,-1
+127,Macedonia,,389,5,-1
+128,Madagascar,,261,5,-1
+129,Malawi,,265,5,-1
+130,Malaysia,,60,5,-1
+131,Maldives,Maldivian,960,5,-1
+132,Mali,,223,5,-1
+133,Malta,,356,5,-1
+134,Marshall Islands,,692,5,-1
+135,Martinique,,596,5,-1
+136,Mauritania,,222,5,-1
+137,Mauritius,Mauritian,230,5,-1
+138,Mayotte,,269,5,-1
+139,Mexico,,52,5,-1
+140,Micronesia,,691,5,-1
+141,Moldova,,373,5,-1
+142,Monaco,,377,5,-1
+143,Mongolia,,976,5,-1
+144,Montserrat,,1,5,-1
+145,Morocco,,212,5,-1
+146,Mozambique,,258,5,-1
+147,Myanmar,,95,5,-1
+148,Namibia,,264,5,-1
+149,Nauru,,674,5,-1
+150,Nepal,,977,5,-1
+151,Netherlands,Dutch,31,5,-1
+152,Netherlands Antilles,,599,5,-1
+153,New Caledonia,,687,5,-1
+154,New Zealand,Kiwi,64,5,-1
+155,Nicaragua,,505,5,-1
+156,Niger,,227,5,-1
+157,Nigeria,,234,5,-1
+158,Niue,,683,5,-1
+159,Norfolk Island,,672,5,-1
+160,Northern Mariana Islands,,1,5,-1
+161,Norway,Norse,47,5,-1
+162,Oman,,968,5,-1
+163,Pakistan,Pakistani,92,5,-1
+164,Palau,,680,5,-1
+165,Palestine,,970,5,-1
+166,Panama,,507,5,-1
+167,Papua New Guinea,,675,5,-1
+168,Paraguay,,595,5,-1
+169,Peru,,51,5,-1
+170,Philippines,Philippino,63,5,-1
+171,Pitcairn,,872,5,-1
+172,Poland,Polish,48,5,-1
+173,Portugal,,351,5,-1
+174,Puerto Rico,,1,5,-1
+175,Qatar,,974,5,-1
+176,Reunion,,262,5,-1
+177,Romania,,40,5,-1
+178,Russian Federation,,7,5,-1
+179,Rwanda,,250,5,-1
+180,Saint Helena,,290,5,-1
+181,Saint Kitts And Nevis,,1,5,-1
+182,Saint Lucia,,1,5,-1
+183,Saint Pierre And Miquelon,,508,5,-1
+184,Saint Vincent And The Grenadines,,1,5,-1
+185,Samoa,,685,5,-1
+186,San Marino,,378,5,-1
+187,Sao Tome And Principe,,239,5,-1
+188,Saudi Arabia,,966,5,-1
+189,Senegal,,221,5,-1
+190,Serbia,,381,5,-1
+191,Seychelles,,248,5,-1
+192,Sierra Leone,,232,5,-1
+193,Singapore,Singaporean,65,5,-1
+194,Slovakia,,421,5,-1
+195,Slovenia,,386,5,-1
+196,Solomon Islands,Solomon Islander,677,5,-1
+197,Somalia,,252,5,-1
+198,South Africa,,27,5,-1
+199,South Georgia And The South Sandwich Islands,,-1,5,-1
+200,Spain,Spanierd,34,5,-1
+201,Sri Lanka,,94,5,-1
+202,Suriname,,597,5,-1
+203,Svalbard And Jan Mayen,,47,5,-1
+204,Swaziland,,268,5,-1
+205,Sweden,Swede,46,5,-1
+206,Switzerland,Swiss,41,5,-1
+207,Taiwan,,886,5,-1
+208,Tajikistan,,992,5,-1
+209,Tanzania,,255,5,-1
+210,Thailand,Thai,66,5,-1
+211,Togo,,228,5,-1
+212,Tokelau,,690,5,-1
+213,Tonga,,676,5,-1
+214,Trinidad And Tobago,,1,5,-1
+215,Tunisia,,216,5,-1
+216,Turkey,Turk,90,5,-1
+217,Turkmenistan,,993,5,-1
+218,Turks And Caicos Islands,,1,5,-1
+219,Tuvalu,,688,5,-1
+220,Uganda,,256,5,-1
+221,Ukraine,Ukrainian,380,5,-1
+222,United Arab Emirates,Arabian,971,5,-1
+223,United Kingdom,British,44,5,-1
+224,United States,American,1,5,-1
+225,Uruguay,,598,5,-1
+226,Uzbekistan,,998,5,-1
+227,Vanuatu,,678,5,-1
+228,Venezuela,,58,5,-1
+229,Viet Nam,,84,5,-1
+230,Virgin Islands- British,,1,5,-1
+231,Virgin Islands- Us,,1,5,-1
+232,Wallis And Futuna,,681,5,-1
+233,Western Sahara,,212,5,-1
+234,Yemen,,967,5,-1
+235,Yugoslavia,,0,5,-1
+236,Zambia,Zambian,260,5,-1
+237,Zimbabwe,,263,5,-1
