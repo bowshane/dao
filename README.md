@@ -7,7 +7,7 @@ The `DataField` *interface* describes the contract for information that can be s
  meta data and static methods that allow for flexible handling of
  the records.
 
->>In this package the prefix `DR` stands for `DataRecord` and `DF` means `DataField`.
+*Note:* In this package the prefix `DR` stands for `DataRecord` and `DF` means `DataField`.
 
 `DREditor`: A panel for editing and validating the fields of a
  data record.
